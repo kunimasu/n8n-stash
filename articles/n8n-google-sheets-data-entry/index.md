@@ -9,7 +9,7 @@ Google Sheets に関するActionやTriggerは以下のように各種揃えて�
 ## Google Cloudでクレデンシャルを作る
 
 Google Sheets、もといGoogleサービスを使うためには、Google Cloudでプロジェクトを作成し、クレデンシャルを扱えるようにする必要があります。  
-n8nでGoogleサービスを使うためのクレデンシャルの登録方法については、別途解説した記事がありますので、そちらを参照ください。
+n8nでGoogleサービスを使うためのクレデンシャルの登録方法については、別途解説した記事がありますので、そちらを参照ください。  
 [n8nでGoogleサービスを使うためのクレデンシャル4選【用途別に解説】](../n8n-google-credentials/index.md)
 
 ## Google Sheets Actionを使ってみる
