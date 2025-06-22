@@ -1,0 +1,298 @@
+{
+  "main": {
+    "id": "3b46d1016d0ecaac",
+    "type": "split",
+    "children": [
+      {
+        "id": "a93b876a40c29e8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a7070bb00e399ac",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "articles/n8n-google-credentials/n8n-http-request-node.webp"
+              },
+              "icon": "lucide-image",
+              "title": "n8n-http-request-node"
+            }
+          },
+          {
+            "id": "ab47dc38352fc80a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "articles/n8n-call-sub-workflow/n8n-execute-sub-workflow-node.png"
+              },
+              "icon": "lucide-image",
+              "title": "n8n-execute-sub-workflow-node"
+            }
+          },
+          {
+            "id": "37f7eefec627d7cb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "articles/n8n-call-sub-workflow/n8n-manual-trigger.png"
+              },
+              "icon": "lucide-image",
+              "title": "n8n-manual-trigger"
+            }
+          },
+          {
+            "id": "556b2b630a5c1045",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "articles/n8n-call-sub-workflow/n8n-when-executed-another-workflow.png"
+              },
+              "icon": "lucide-image",
+              "title": "n8n-when-executed-another-workflow"
+            }
+          },
+          {
+            "id": "49939761d5147acb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "articles/n8n-call-sub-workflow/n8n-execute-workflow-settings.png"
+              },
+              "icon": "lucide-image",
+              "title": "n8n-execute-workflow-settings"
+            }
+          },
+          {
+            "id": "20dcd2292bc6b422",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "articles/n8n-call-sub-workflow/n8n-when-executed-by-another-workflow-settings.png"
+              },
+              "icon": "lucide-image",
+              "title": "n8n-when-executed-by-another-workflow-settings"
+            }
+          },
+          {
+            "id": "cbca3c3ae757162e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "articles/n8n-call-sub-workflow/n8n-execute-sub-workflow-json.png"
+              },
+              "icon": "lucide-image",
+              "title": "n8n-execute-sub-workflow-json"
+            }
+          },
+          {
+            "id": "afe48620f712f85e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "articles/n8n-call-sub-workflow/n8n-when-executed-by-another-workflow-settings.png"
+              },
+              "icon": "lucide-image",
+              "title": "n8n-when-executed-by-another-workflow-settings"
+            }
+          },
+          {
+            "id": "9f9cf97852b4fe8d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "articles/n8n-call-sub-workflow/n8n-result-executed-sub-workflow.png"
+              },
+              "icon": "lucide-image",
+              "title": "n8n-result-executed-sub-workflow"
+            }
+          },
+          {
+            "id": "240f513e9f1fb16b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "articles/n8n-call-sub-workflow/n8n-triggered-when-execute-by-another-workflow.png"
+              },
+              "icon": "lucide-image",
+              "title": "n8n-triggered-when-execute-by-another-workflow"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "239a59595825675d",
+    "type": "split",
+    "children": [
+      {
+        "id": "97e9742af943aed5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1830bbb86dc82c18",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "a9a946ca0edcbf2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "0fc7fe201a5036a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c6df836d9832bf33",
+    "type": "split",
+    "children": [
+      {
+        "id": "8513ffe3549e84bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1d50c0fd1e62592",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "articles/n8n-call-sub-workflow/n8n-triggered-when-execute-by-another-workflow.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "n8n-triggered-when-execute-by-another-workflowへのバックリンク"
+            }
+          },
+          {
+            "id": "e33ce0301f1a2ead",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "articles/n8n-call-sub-workflow/n8n-triggered-when-execute-by-another-workflow.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "n8n-triggered-when-execute-by-another-workflowからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "b7df3364979b25f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "dbb7ef2817e6698a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "articles/n8n-call-sub-workflow/n8n-triggered-when-execute-by-another-workflow.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "n8n-triggered-when-execute-by-another-workflowのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false
+    }
+  },
+  "active": "1830bbb86dc82c18",
+  "lastOpenFiles": [
+    "articles/n8n-call-sub-workflow/n8n-result-executed-sub-workflow.png",
+    "articles/n8n-call-sub-workflow/index.md.md",
+    "articles/n8n-call-sub-workflow/n8n-triggered-when-execute-by-another-workflow.png",
+    "articles/n8n-call-sub-workflow/n8n-triggered-manual-trigger.png",
+    "articles/n8n-call-sub-workflow/n8n-execute-sub-workflow-json.png",
+    "articles/n8n-call-sub-workflow/n8n-when-executed-by-another-workflow-settings.png",
+    "無題のファイル.canvas",
+    "articles/n8n-call-sub-workflow/n8n-execute-workflow-settings.png",
+    "articles/n8n-call-sub-workflow/n8n-when-executed-another-workflow.png",
+    "articles/n8n-call-sub-workflow/n8n-execute-sub-workflow-node.png",
+    "2025-06-22.md",
+    "articles/n8n-call-sub-workflow/n8n-manual-trigger.png",
+    "articles/n8n-google-credentials/n8n-http-request-node.webp",
+    "articles/n8n-google-sheets-data-entry/index.md",
+    "articles/n8n-call-sub-workflow",
+    "articles/n8n-google-credentials/index.md",
+    "README.md"
+  ]
+}
