@@ -6,7 +6,7 @@ n8nは、1つのワークフロー内に、複数のトリガーを作成する�
 
 今回は、単純ですが、Execute Sub Workflowノードを使って、同じワークフロー内のExecute Sub-workflow Triggerノードを呼びだして使ってみましょう。
 
-[Execute Sub Workflowノード](https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.executeworkflow)
+[Execute Sub Workflowノード](https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.executeworkflow)  
 [Execute Sub-workflow Triggerノード](https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.executeworkflowtrigger)
 
 ## ワークフロー全体像
