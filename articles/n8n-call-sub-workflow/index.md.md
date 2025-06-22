@@ -48,7 +48,7 @@ Execute A Sub Workflowを選択すると、Execute Workflowノードが現れま
 
 Execute Workflowの設定は:
 * **Source:** Database  
-* **Worfkflow:** By IDで `{{ $workflow.id }}` を指定
+* **Workflow:** By IDで `{{ $workflow.id }}` を指定
 
 **Source** については、呼び出すワークフローの指定方法で、今回はIDを直接指定しています。  
 n8nは、`{{ }}` で囲うことで、変数を使う事ができますので、直接ID ここでは `1GJW816NaNjP526e` を指定することなく、実際に動かすワークフローを変数で指定する方式を採用しています。  
